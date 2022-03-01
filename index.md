@@ -1,7 +1,26 @@
 # Aha, Right!
 
+![image](https://user-images.githubusercontent.com/100512723/156163177-89ae6327-ddee-44c8-a318-d89b780830b0.png)
+> [权力的游戏](https://movie.douban.com/subject/3016187/)
+
+## [【罗翔】权利与权力，两个词语有何区别？](https://www.bilibili.com/s/video/BV11h411r7M5) 
+
+权利与权力
+
+1. 拥有及行使的主体不同：right为一般主体，power为国家机关及其工作人员
+2. 处分的方式不同：right可以放弃和转让，power不能够放弃和转让
+3. 推定的规则不同：right法无禁止皆可为，power法无授权皆禁止
+4. 社会功能不同：right为私人利益，power为公共利益
+
+![image](https://user-images.githubusercontent.com/100512723/156163705-82cae196-d8b1-4da1-9335-cbfcb03aa106.png)
+![image](https://user-images.githubusercontent.com/100512723/156163826-c2fd3292-fd00-4ac2-ab9d-d59801a32330.png)
+![image](https://user-images.githubusercontent.com/100512723/156163841-e453f8c7-80e7-4ce7-95c0-32fc5d7ad8b2.png)
+![image](https://user-images.githubusercontent.com/100512723/156163871-0e752965-bbd1-43a7-8699-dc3ec1d92bbd.png)
+
+
+## [薛兆丰的经济学课——只给你地道的经济学思维](https://www.dedao.cn/course/detail?id=eN7ndm2ploEVb1aH9GKA48zLBYG1vq)
+
 ![image](https://user-images.githubusercontent.com/100512723/155877295-3b28c2e4-5476-4e69-8279-0d590004db83.png)
-> [薛兆丰的经济学课——只给你地道的经济学思维](https://www.dedao.cn/course/detail?id=eN7ndm2ploEVb1aH9GKA48zLBYG1vq)
 
 ![image](https://user-images.githubusercontent.com/100512723/155879262-2898c893-8c7b-43b5-8099-bf99199ca776.png)
 
@@ -918,7 +937,11 @@ apple 同学回答说，国有资产没有明确的产权，它有使用权、�
 
 不可转让原则之所以实施有各种各样的原因，而我们经济学分析的重点，是当禁止人们买卖某种商品，而市场上仍然有需求的时候，会产生什么样的效果，这些效果是不是符合我们当初的良好愿望。
 
+
+
 ## 参考
 
+1. [知识产权法(吴汉东)](http://www.lawpress.com.cn/index.php?c=book&m=detail&column_id=37&book_id=199764)
+2. [法定代表人](https://coolipr.com/Concept.html) 
 
 ![Alt](https://repobeats.axiom.co/api/embed/e36d40187cbbf22abedeab0bf627a2ee5d4f77e7.svg "Repobeats analytics image")
